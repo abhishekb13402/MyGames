@@ -45,6 +45,14 @@ MyGames is a collection of simple and fun mini-games for Android. It was develop
 ![Screenshot 1](./images/p7.jpg)
 
 
+## Demo Video
+
+Watch a brief demo of the MyGames app in action:
+
+[![MyGames Demo](https://drive.google.com/drive/folders/1b9ZFk8mz-rbz9rzKK2U7hAoHoUZY5XFK?usp=sharing)]
+
+
+
 ## Technologies Used
 
 - Java
