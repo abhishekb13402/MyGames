@@ -1,15 +1,51 @@
-# MyGames
-The primary objective of the mini game project is to create an all-in-one gaming application for Android users. The app's main goal is to entertain and engage users through a collection of mini-games, each offering unique challenges and entertainment value. 
+# MyGames - Mini Game Collection
 
-#Project Profile
-Project: MyGames (Android app)
-Project Developer: Bhatt Abhishek Sanjay
-Role: Mini Project (Summer Internship)
-Institution: GTU SVIT Vasad
-Guidance: Prof. Gargi Maam
-The mini game project is an individual project undertaken at GTU SVIT Vasad as a
-Summer Internship or mini project subject, under the guidance of Prof. Gargi Maam.
-The project is developed using Java in Android Studio and incorporates essential Android
-components to ensure seamless functionality.
-The target platform for the application is Android devices, providing users with easy access
-to the diverse collection of mini-games.
+![MyGames Logo](./images/logo.png)
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Screenshots](#screenshots)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+
+MyGames is a collection of simple and fun mini-games for Android. It was developed as a project for a college course and showcases different game mechanics and concepts. The app is designed to be lightweight, easy to use, and enjoyable for users of all ages.
+
+![MyGames Screenshot](./images/screenshot.jpg)
+
+## Features
+
+- Four engaging mini-games:
+  - Magic Card Game
+  - Game of Fifteen
+  - Number Guessing Game
+  - Rock Paper Scissors
+- User-friendly interface.
+- Background music to enhance the gaming experience.
+- Contact the developer for feedback or inquiries.
+- Clean and organized codebase for easy understanding and modification.
+
+## Screenshots
+
+![Screenshot 1](./images/p2.jpg)
+![Screenshot 1](./images/p3.jpg)
+![Screenshot 1](./images/p4.jpg)
+![Screenshot 1](./images/p5.jpg)
+![Screenshot 1](./images/p6.jpg)
+![Screenshot 1](./images/p7.jpg)
+
+
+## Technologies Used
+
+- Java
+- Android Studio
+- XML
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
