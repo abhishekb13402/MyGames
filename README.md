@@ -45,7 +45,3 @@ MyGames is a collection of simple and fun mini-games for Android. It was develop
 - Android Studio
 - XML
 
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
