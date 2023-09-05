@@ -49,7 +49,7 @@ MyGames is a collection of simple and fun mini-games for Android. It was develop
 
 Watch a brief demo of the MyGames app in action:
 
-[![MyGames Demo](https://drive.google.com/drive/folders/1b9ZFk8mz-rbz9rzKK2U7hAoHoUZY5XFK?usp=sharing)]
+[![MyGames Demo](https://www.example.com/path-to-your-image.jpg)](https://drive.google.com/drive/folders/1b9ZFk8mz-rbz9rzKK2U7hAoHoUZY5XFK?usp=sharing)
 
 
 
